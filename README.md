@@ -32,8 +32,6 @@ Here’s a snapshot of my work journey, reflecting the roles, achievements, and 
 - ► **Collaborated with clients** to convey the business value of AI and its real-world applications, ensuring successful solution adoption.
 - ► **Worked with global teams** to deliver seamless PoC implementations and optimize client outcomes.
 
-[**watsonx.data**](https://watsonx.ai) | [**watsonx.ai**](https://watsonx.ai) and +21 skills
-
 ---
 
 ## **Data Science Analyst**  
